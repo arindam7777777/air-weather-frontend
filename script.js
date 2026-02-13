@@ -2,7 +2,7 @@
 // 🌍 AIR·WEATHER MAP - COMPLETE SCRIPT
 // ============================================
 
-const API_BASE = 'air-weather-backend-production.up.railway.app/api';  // Relative URL for deployment
+const API_BASE = 'https://air-weather-backend-production.up.railway.app/api';  // Relative URL for deployment
 
 // ============================================
 // 📱 MOBILE DETECTION & UI CONTROLS
@@ -605,3 +605,4 @@ window.addEventListener('load', async () => {
     }
 
 });
+
